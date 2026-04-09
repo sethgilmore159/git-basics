@@ -1,5 +1,6 @@
 #ignores zip files
 *.zip
+!problem.zip
 
 #ignores ignore directories
 ignore/
