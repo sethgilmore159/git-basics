@@ -1,1 +1,2 @@
 merge conflict file
+addition text to cause merge conflict from conflict branch
