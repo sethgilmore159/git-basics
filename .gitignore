@@ -1,0 +1,8 @@
+#ignores zip files
+*.zip
+
+#ignores ignore directories
+ignore/
+
+#ignores this specific file
+clash.txt
