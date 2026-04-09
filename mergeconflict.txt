@@ -1,1 +1,2 @@
 merge conflict file
+different text from main file to cause conflict
