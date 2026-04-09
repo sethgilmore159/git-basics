@@ -1,2 +1,6 @@
 merge conflict file
+<<<<<<< HEAD
 different text from main file to cause conflict
+=======
+addition text to cause merge conflict from conflict branch
+>>>>>>> conflict
